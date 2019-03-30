@@ -1,0 +1,24 @@
+{
+  "name": "bootstrapStudy",
+  "version": "1.0.0",
+  "description": "bootstrap学习记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhuazhan/bootstrapStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenhuazhan/bootstrapStudy/issues"
+  },
+  "homepage": "https://github.com/chenhuazhan/bootstrapStudy#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^1.12.4"
+  }
+}
